@@ -16,7 +16,7 @@ Bootstrap and CSS for basic styling
 
 _Getting Started_
 1. Clone the repository
-git clone <repository-url>
+git clone https://github.com/AliAbbas993/movies-glance.git
 2. Install dependencies
 
 Navigate to the project directory and install the required packages:
